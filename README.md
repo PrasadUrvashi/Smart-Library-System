@@ -110,17 +110,22 @@ Tracks library seat availability.
 
 ### 📌 Home Screen UI
 
-![home_screen](https://github.com/user-attachments/assets/c15b38df-9501-488e-bfcd-ce919abff9c4)
+
+![home_screen](https://github.com/user-attachments/assets/fdeb5251-ea64-462d-97c7-49930faa92a3)
 
 
 ### 📌 QR code to scan to book to borrow or return book
-<img width="1100" height="560" alt="qr_scan_book_borrow" src="https://github.com/user-attachments/assets/fc2705fc-9b68-461f-bc3d-9fe3bc57776c" />
+<img width="1100" height="570" alt="qr_scan_book_borrow" src="https://github.com/user-attachments/assets/098bab9d-5675-4268-9ce2-669e2422195f" />
+
+
 
 ### 📌 Firebase Database Structure for books
-<img width="1100" height="560" alt="firebase_books" src="https://github.com/user-attachments/assets/0f33206d-f870-420d-927c-2dfa7447b5a0" />
+
+<img width="1100" height="570" alt="firebase_books" src="https://github.com/user-attachments/assets/e64bf5ab-7a5a-4251-abae-40a37366e1d6" />
 
 ### 📌 Firebase Database Structure for seats
-<img width="1100" height="560" alt="firebase_seats" src="https://github.com/user-attachments/assets/08cf960a-d392-4576-b82f-de4780ccd706" />
+
+<img width="1100" height="570" alt="firebase_seats" src="https://github.com/user-attachments/assets/ea696556-c7e0-4ddd-8011-216e38772d95" />
 
 
 
